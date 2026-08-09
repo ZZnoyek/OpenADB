@@ -10,3 +10,6 @@ A platform for AI agents like opencode to interact with your android device thro
 # Updates
 **Trying to make a normal explanation that is NOT for the ai and is for human reading. Just in case a normal person wants to use it.**
 **Also tryinng to make older apps and integrate a version choser in the installer for backwards compatability.**
+
+
+# Before you get mad that only opencode can use it (FOR NOW) just remember that opencode supports other providers like claude openai ext...)
